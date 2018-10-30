@@ -1,2 +1,2 @@
 print ("Hello, World!")
-print ("Please enter two random numbers!")
+print ("Please enter two random integers!")
