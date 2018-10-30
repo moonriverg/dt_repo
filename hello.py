@@ -6,6 +6,7 @@ nMin = int(input("Input min number:"))
 nMax = int(input("Input max number:"))
 nRan = random.randint(nMin, nMax)
 print (nRan)
+print ("Have fun")
 
 
 
